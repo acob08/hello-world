@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+hi! :)
+
+I am Romeo, i wanted to be a software or Web developer. :)
